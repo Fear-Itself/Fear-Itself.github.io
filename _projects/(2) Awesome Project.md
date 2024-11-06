@@ -1,8 +1,8 @@
 ---
-name: The Movies Project
-tools: [C#, XML, WPF]
-image: https://www.sketchappsources.com/resources/source-image/movie-badges-jurajjurik.png
-description: This project has an individual showcase page, not just a direct link to the project site or repo. Now you have more space to describe your awesome project!
+name: Honestus
+tools: [Java, Hacks, Minecraft]
+image: https://i.ytimg.com/vi/-EoapXalNe8/sddefault.jpg
+description: Just a project I was working on to help a friend out. Nothing much!
 ---
 
 # The Movies Project

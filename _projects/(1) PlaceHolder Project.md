@@ -1,7 +1,7 @@
 ---
-name: PlaceHolder Project
-tools: [nothing, important]
-image: https://www.sketchappsources.com/resources/source-image/project-neon-groove-music-ui.png
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-external_url: https://www.google.com
+name: Copeinstien
+tools: [nodejs, discord]
+image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMyHAH1DoXxTHgiZ_R6mYzW5H7dMzHcozT3A&s
+description: Minecraft server scanning and indexing bot. Created for my minecraft server exploration project.
+external_url: https://google.com
 ---

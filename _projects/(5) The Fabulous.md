@@ -1,7 +1,7 @@
 ---
-name: The Fabulous
-tools: [Android, Material Design]
-image: https://storage.googleapis.com/gd-wagtail-prod-assets/original_images/material_design_awards_inline_002.jpg
-description: Fabulous is a science-based app, incubated in Duke's Behavioral Economics Lab, that will help you build healthy rituals into your life, just like an elite athlete.
-external_url: https://thefabulous.co/
+name: DVD Bounce
+tools: [Imagi, Stupid]
+image: https://m.media-amazon.com/images/I/61sib4-FjRL.png
+description: Imagi is my schools way of teaching python. Its a 8x8 grid where you can code images. In this project I used sensing to create realistic physics for a DVD bounce logo. Really weird and pointless lmfao.
+external_url: https://google.com/
 ---

@@ -2,6 +2,11 @@
   percentage: 40
   color: info
 
+
+- name: Gaming
+  percentage: 70
+  color: dark
+  
 - name: Rock Climbing
   percentage: 30
   color: success

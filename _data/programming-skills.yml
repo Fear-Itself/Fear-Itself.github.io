@@ -10,14 +10,9 @@
   percentage: 25
   color: secondary
 
-- name: SSH
-  percentage: 25
-  color: info
-
-
 - name: Docker
-  percentage: 10
-  color: danger
+  percentage: 15
+  color: info
 
 - name: Python
   percentage: 2

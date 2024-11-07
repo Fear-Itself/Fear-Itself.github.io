@@ -1,11 +1,10 @@
-- name: Fishing
-  percentage: 40
-  color: info
-
-
 - name: Gaming
   percentage: 70
   color: dark
+
+- name: Fishing
+  percentage: 40
+  color: info
   
 - name: Rock Climbing
   percentage: 30

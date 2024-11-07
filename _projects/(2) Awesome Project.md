@@ -5,5 +5,3 @@ image: https://www.minecraft.net/content/dam/games/minecraft/key-art/Vanilla-PMP
 description: Advanced 1.16.5 hacked client project.
 ---
 
-# This is private as of now!
-

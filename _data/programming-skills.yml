@@ -17,7 +17,7 @@
 
 - name: Docker
   percentage: 10
-  color: light
+  color: yellow
 
 - name: Python
   percentage: 2

@@ -1,11 +1,11 @@
-- name: Java
-  percentage: 90
+- name: Linux
+  percentage: 60
   color: danger
 
-- name: Linux
-  percentage: 65
+- name: Java
+  percentage: 30
   color:
 
-- name: Python
-  percentage: 20
+- name: Kali
+  percentage: 25
   color: secondary

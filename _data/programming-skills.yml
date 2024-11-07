@@ -9,3 +9,7 @@
 - name: Kali
   percentage: 25
   color: secondary
+
+- name: Python
+  percentage: 2
+  color: dark
